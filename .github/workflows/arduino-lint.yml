@@ -1,0 +1,20 @@
+---
+##############################################################
+## Arduino Lint                                             ##
+## Documentation at https://arduino.github.io/arduino-lint/ ##
+##############################################################
+name: Arduino Lint
+
+on: [push, pull_request]
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: arduino/arduino-lint-action@v1
+        with:
+          path: code/arduino
+          recursive: true
+          verbose: true
+
+# EOF
