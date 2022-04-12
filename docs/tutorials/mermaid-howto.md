@@ -1,6 +1,6 @@
 # Mermaid utilisation and code examples
 
-Mermaid is a useful tool to create diagrams and charts directly on markdown. 
+Mermaid is a useful tool to create diagrams and charts directly on Markdown. 
 The good part about it is that they can be easily modified just by changing a code displayed before the image, however we can't just move the image wherever we want to.
 For this reason the [online tool](https://mermaid-js.github.io/mermaid-live-editor/edit#pako:eNpdj70OgzAMhF8Feaxg6ZihS9uxE2PDYBEDkfJTBQepQrx7UwJSi6fTd2fLN0PrFYGAkZHpprEPaKvpLF2R5nlqiqq6FDVrYzJa5QqTeUQPP2nXZ5r1cf2HXgOOQ6ar_D-6D5RgKVjUKj05fz0JPJAlCSJJRR1GwxKkW1I0vlSqcVeafQDRoRmpBIzs67drQXCItIe2rltq-QCq71E-) is better in case we are just interested in the results.
 
